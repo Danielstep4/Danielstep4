@@ -2,8 +2,8 @@
 
 ## I'm a Web Developer.
 
-- 🔭 I’m currently working on an Online course provider for a small company.
-- 🌱 I’m currently learning GraphQL.
+- 🔭 I’m currently working on a "Budget Manager" application.
+- 🌱 learning GraphQL in my free time.
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
